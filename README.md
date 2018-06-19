@@ -4,7 +4,21 @@ This is a simple project based on Python. It shows the trailer of some worth wat
 
 # Installation
 
-Clone or download the github repository and open _fresh tomatoes.html_ file from any webbrowser.
-For reviewing Python code, any official Python version must be installed.
-For Python installation related help, visit https://www.python.org/downloads/
+Using terminal:
+1. Clone or download the github repository.
+2. Navigate to the github repository
+   `cd Movies-Project-master`
+3. Run the 'entertainment_center.py' file
+   `python entertainment_center.py`
+   
+Using IDLE:
+1. Python along with IDLE must be installed, for help visit https://www.python.org/downloads/
+2. Clone or download the github repository.
+3. Open IDLE.
+4. Go to File and select Open. Navigate to downloaded files
+   and open entertainment_center.py 
+5. Press F5 or click Run from the menu to run the file.
+  
+ 
+
 
