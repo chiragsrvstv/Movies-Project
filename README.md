@@ -16,7 +16,7 @@ Using IDLE:
 2. Clone or download the github repository.
 3. Open IDLE.
 4. Go to File and select Open. Navigate to downloaded files
-   and open entertainment_center.py 
+   and Open entertainment_center.py 
 5. Press F5 or click Run from the Menu to run the file.
   
  
